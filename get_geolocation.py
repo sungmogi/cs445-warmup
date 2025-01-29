@@ -1,26 +1,20 @@
 import json
 import requests
 
-def get_geolocation(ip):
-    """Fetch geolocation data using multiple services."""
-    services = [
-        lambda ip: requests.get(f"http://ipwho.is/{ip}").json(),
-        lambda ip: requests.get(f"https://ipinfo.io/{ip}/json").json(),
-    ]
+ipinfo_token = "94861062afb05e"
 
-    for service in services:
-        try:
-            data = service(ip)
-            if "latitude" in data and "longitude" in data:
-                return data["latitude"], data["longitude"]
-            elif "loc" in data:  # For ipinfo.io
-                loc = data["loc"].split(",")
-                return float(loc[0]), float(loc[1])
-        except Exception as e:
-            print(f"Service error for IP {ip}: {e}")
+def get_geolocation(ip):
+    """Fetch geolocation data using ipinfo.io."""
+    try:
+        data = requests.get(f"https://ipinfo.io/{ip}/json?token={ipinfo_token}").json()
+        if "loc" in data and "country" in data:
+            lat, lon = map(float, data["loc"].split(","))
+            return lat, lon, data["country"]
+    except Exception as e:
+        print(f"Service error for IP {ip}: {e}")
     
     print(f"Failed to locate IP: {ip}")
-    return None, None
+    return None, None, None
 
 
 def process_traceroute(json_filepath):
@@ -35,12 +29,15 @@ def process_traceroute(json_filepath):
             for hop in path:
                 ip = hop["hop"]
                 if ip != "***" and hop["RTT"] > 0:
-                    lat, lon = get_geolocation(ip)
+                    lat, lon, country = get_geolocation(ip)
+                    print(lat, lon, country)
                     hop["latitude"] = lat
                     hop["longitude"] = lon
+                    hop["country"] = country  # Now storing country as well
                 else:
                     hop["latitude"] = None
                     hop["longitude"] = None
+                    hop["country"] = None  # Set country to None if unavailable
         
         # Write the updated data back to the file
         with open(json_filepath, 'w') as file:

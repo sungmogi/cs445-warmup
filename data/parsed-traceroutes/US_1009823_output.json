@@ -4,43 +4,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "40.86.96.177",
             "RTT": 10.833,
-            "latitude": 41.6005448,
-            "longitude": -93.6091064
+            "latitude": 41.6005,
+            "longitude": -93.6091,
+            "country": "US"
         }
     ],
     [
@@ -48,43 +55,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -92,43 +106,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -136,43 +157,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "159.142.191.107",
             "RTT": 47.8,
-            "latitude": 38.9071923,
-            "longitude": -77.0368707
+            "latitude": 39.0751,
+            "longitude": -78.5978,
+            "country": "US"
         }
     ],
     [
@@ -180,43 +208,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -224,43 +259,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "52.188.77.219",
             "RTT": 15.268,
-            "latitude": 38.9071923,
-            "longitude": -77.0368707
+            "latitude": 39.0062,
+            "longitude": -77.4286,
+            "country": "US"
         }
     ],
     [
@@ -268,43 +310,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "149.101.127.104",
             "RTT": 20.008,
-            "latitude": 40.7127837,
-            "longitude": -74.0059413
+            "latitude": 39.2904,
+            "longitude": -76.6122,
+            "country": "US"
         }
     ],
     [
@@ -312,43 +361,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -356,43 +412,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -400,43 +463,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -444,43 +514,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -488,43 +565,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "137.200.4.16",
             "RTT": 29.241,
-            "latitude": 39.2903848,
-            "longitude": -76.6121893
+            "latitude": 35.2271,
+            "longitude": -80.8431,
+            "country": "US"
         }
     ],
     [
@@ -532,43 +616,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "159.142.191.107",
             "RTT": 48.241,
-            "latitude": 38.9071923,
-            "longitude": -77.0368707
+            "latitude": 39.0751,
+            "longitude": -78.5978,
+            "country": "US"
         }
     ],
     [
@@ -576,43 +667,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -620,43 +718,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -664,43 +769,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -708,43 +820,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "23.211.118.57",
             "RTT": 156.326,
-            "latitude": 33.7489954,
-            "longitude": -84.3879824
+            "latitude": 33.749,
+            "longitude": -84.388,
+            "country": "US"
         }
     ],
     [
@@ -752,43 +871,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -796,43 +922,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "23.192.31.113",
             "RTT": 13.218,
-            "latitude": 43.653226,
-            "longitude": -79.3831843
+            "latitude": 43.7064,
+            "longitude": -79.3986,
+            "country": "CA"
         }
     ],
     [
@@ -840,43 +973,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "23.185.0.4",
             "RTT": 1.73,
-            "latitude": 37.718128,
-            "longitude": -122.4343849
+            "latitude": 37.7621,
+            "longitude": -122.3971,
+            "country": "US"
         }
     ],
     [
@@ -884,43 +1024,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "159.142.191.107",
             "RTT": 47.794,
-            "latitude": 38.9071923,
-            "longitude": -77.0368707
+            "latitude": 39.0751,
+            "longitude": -78.5978,
+            "country": "US"
         }
     ],
     [
@@ -928,43 +1075,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "12.53.28.32",
             "RTT": 5.709,
-            "latitude": 41.7508391,
-            "longitude": -88.1535352
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "country": "US"
         }
     ],
     [
@@ -972,43 +1126,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1016,43 +1177,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1060,43 +1228,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1104,43 +1279,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1148,43 +1330,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1192,43 +1381,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "23.185.0.4",
             "RTT": 1.671,
-            "latitude": 37.718128,
-            "longitude": -122.4343849
+            "latitude": 37.7621,
+            "longitude": -122.3971,
+            "country": "US"
         }
     ],
     [
@@ -1236,43 +1432,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ],
     [
@@ -1280,43 +1483,50 @@
             "hop": "40.116.102.193",
             "RTT": 0.0,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         },
         {
             "hop": "***",
             "RTT": -Infinity,
             "latitude": null,
-            "longitude": null
+            "longitude": null,
+            "country": null
         }
     ]
 ]
