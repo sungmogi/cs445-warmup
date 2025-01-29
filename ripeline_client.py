@@ -59,11 +59,13 @@ def schedule_traceroute(input_json_filepath, probe_ids, user_id, url='http://cai
 
 
 if __name__ == "__main__":
-    # input_json_filepath = "subsetIP_US.json"
-    # probe_ids = [7922, 7018, 701] # Comcast, AT&T, Verizon
+    input_json_filepath = "subsetIP_US.json"
+    # probe_ids = [52849, 51193, 55805] # Comcast (7922), AT&T (7018), Verizon
+    probe_ids = [16103, 65379, 1009823, 1003387] # Verizon (701), Level 3 Parent (3356), Microsoft (8075), Amazon (16509)
     
-    input_json_filepath = "subsetIP_NG.json"
-    probe_ids = [37382, 36940]
+    
+    # input_json_filepath = "subsetIP_NG.json"
+    # probe_ids = [61190, 62927]
     user_id = "sungmogi"
 
     try:
