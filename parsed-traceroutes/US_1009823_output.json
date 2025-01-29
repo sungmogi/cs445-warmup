@@ -1,0 +1,902 @@
+[
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "40.86.96.177",
+            "RTT": 10.833
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "159.142.191.107",
+            "RTT": 47.8
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "52.188.77.219",
+            "RTT": 15.268
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "149.101.127.104",
+            "RTT": 20.008
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "137.200.4.16",
+            "RTT": 29.241
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "159.142.191.107",
+            "RTT": 48.241
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "23.211.118.57",
+            "RTT": 156.326
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "23.192.31.113",
+            "RTT": 13.218
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "23.185.0.4",
+            "RTT": 1.73
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "159.142.191.107",
+            "RTT": 47.794
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "12.53.28.32",
+            "RTT": 5.709
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "23.185.0.4",
+            "RTT": 1.671
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ],
+    [
+        {
+            "hop": "40.116.102.193",
+            "RTT": 0.0
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        },
+        {
+            "hop": "***",
+            "RTT": -Infinity
+        }
+    ]
+]
