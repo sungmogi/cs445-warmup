@@ -6,31 +6,23 @@ import ipaddress
 
 # Hardcoded JSON data
 TRACEROUTE_DATA = [
-    {"hop": "154.113.73.198", "RTT": 0.0, "latitude": None, "longitude": None, "country": None},
-    {"hop": "10.0.0.1", "RTT": 1.211, "latitude": None, "longitude": None, "country": None},
-    {"hop": "154.113.73.197", "RTT": 1.403, "latitude": 6.4541, "longitude": 3.3947, "country": "NG"},
-    {"hop": "154.113.144.218", "RTT": 1.295, "latitude": 6.4541, "longitude": 3.3947, "country": "NG"},
-    {"hop": "154.113.144.218", "RTT": 1.295, "latitude": 6.4541, "longitude": 3.3947, "country": "NG"},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "154.54.61.214", "RTT": 73.98, "latitude": 41.5503, "longitude": -8.42, "country": "PT"},
-    {"hop": "154.54.61.101", "RTT": 87.063, "latitude": 43.2627, "longitude": -2.9253, "country": "ES"},
-    {"hop": "154.54.85.241", "RTT": 157.459, "latitude": 39.0437, "longitude": -77.4875, "country": "US"},
-    {"hop": "154.54.7.158", "RTT": 173.841, "latitude": 33.749, "longitude": -84.388, "country": "US"},
-    {"hop": "154.54.28.70", "RTT": 187.343, "latitude": 29.9324, "longitude": -95.3802, "country": "US"},
-    {"hop": "154.54.0.54", "RTT": 203.352, "latitude": 31.7587, "longitude": -106.4869, "country": "US"},
-    {"hop": "154.54.166.58", "RTT": 211.721, "latitude": 33.4484, "longitude": -112.074, "country": "US"},
-    {"hop": "154.54.28.142", "RTT": 212.318, "latitude": 33.4484, "longitude": -112.074, "country": "US"},
-    {"hop": "38.88.238.226", "RTT": 229.43, "latitude": 33.4484, "longitude": -112.074, "country": "US"},
-    {"hop": "100.65.240.50", "RTT": 252.483, "latitude": None, "longitude": None, "country": None},
-    {"hop": "100.65.248.134", "RTT": 239.903, "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None},
-    {"hop": "***", "RTT": float('-inf'), "latitude": None, "longitude": None, "country": None}
+    {"hop": "196.216.149.17", "RTT": 0.0, "latitude": None, "longitude": None, "country": None},
+    {"hop": "192.168.20.1", "RTT": 1.511, "latitude": None, "longitude": None, "country": None},
+    {"hop": "197.157.66.160", "RTT": 1.496, "latitude": 6.4541, "longitude": 3.3947, "country": "NG"},
+    {"hop": "41.78.188.5", "RTT": 3.51, "latitude": 6.4541, "longitude": 3.3947, "country": "NG"},
+    {"hop": "41.78.188.147", "RTT": 104.588, "latitude": 51.5085, "longitude": -0.1257, "country": "GB"},
+    {"hop": "212.119.4.176", "RTT": 107.33, "latitude": 51.5085, "longitude": -0.1257, "country": "GB"},
+    {"hop": "129.250.6.112", "RTT": 104.946, "latitude": 51.5085, "longitude": -0.1257, "country": "GB"},
+    {"hop": "129.250.2.111", "RTT": 181.54, "latitude": 39.0437, "longitude": -77.4875, "country": "US"},
+    {"hop": "129.250.3.189", "RTT": 243.438, "latitude": 34.0522, "longitude": -118.2437, "country": "US"},
+    {"hop": "129.250.3.245", "RTT": 238.899, "latitude": 34.0522, "longitude": -118.2437, "country": "US"},
+    {"hop": "168.143.228.173", "RTT": 240.172, "latitude": 34.0522, "longitude": -118.2437, "country": "US"},
+    {"hop": "162.215.195.128", "RTT": 244.291, "latitude": 34.0522, "longitude": -118.2437, "country": "US"},
+    {"hop": "162.215.195.141", "RTT": 242.689, "latitude": 40.2338, "longitude": -111.6585, "country": "US"},
+    {"hop": "69.195.64.103", "RTT": 242.316, "latitude": 40.2338, "longitude": -111.6585, "country": "US"},
+    {"hop": "162.144.240.43", "RTT": 242.331, "latitude": 40.2338, "longitude": -111.6585, "country": "US"},
+    {"hop": "142.4.18.72", "RTT": 242.21, "latitude": 40.3544, "longitude": -110.7101, "country": "US"}
 ]
-
 
 def is_valid_ip(ip):
     """Check if an IP address is public (ignore private/local IPs)."""
@@ -77,7 +69,7 @@ def plot_traceroute(gdf_points, gdf_lines, world_map):
         gdf_lines.plot(ax=ax, color="blue", linewidth=2, alpha=0.7, label="Traceroute Path")
     if not gdf_points.empty:
         gdf_points.plot(ax=ax, color="red", markersize=30, alpha=0.8, label="Traceroute Hops")
-    plt.title("Traceroute Visualization", fontsize=14)
+    # plt.title("Traceroute Visualization", fontsize=14)
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
     plt.legend()
